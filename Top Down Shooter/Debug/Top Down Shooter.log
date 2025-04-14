@@ -1,0 +1,17 @@
+﻿Build started 28-Mar-21 4:12:13 PM.
+     1>Project "C:\Users\anik_\Downloads\Top Down Shooter\Top Down Shooter\Top Down Shooter.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\Top Down Shooter.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         Top Down Shooter.vcxproj -> C:\Users\anik_\Downloads\Top Down Shooter\Debug\Top Down Shooter.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\Top Down Shooter.unsuccessfulbuild".
+         Touching "Debug\Top Down Shooter.lastbuildstate".
+     1>Done Building Project "C:\Users\anik_\Downloads\Top Down Shooter\Top Down Shooter\Top Down Shooter.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.06
